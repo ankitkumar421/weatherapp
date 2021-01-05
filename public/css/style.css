@@ -37,3 +37,14 @@ img{
     bottom: 1px;
 }
 
+@media screen and (max-width: 320px){
+    .nav a{
+        border: none;
+        text-align: center;
+        font-size: large;
+        margin: 0.5em;
+        text-decoration: none;
+        color: rgb(185, 212, 236);
+    }
+}
+
